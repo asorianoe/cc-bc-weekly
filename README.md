@@ -1,6 +1,8 @@
 # cc-bc-weekly
-Boodcamp - Weekly Challenges 
+Bootcamp - Weekly Challenges 
 
 
 
-[Week 1](weekly  challenges/week1.js)
+[Week 1](weekly%20challenges/week1.js)
+
+[Week 2](weekly%20challenges/week2.js)
