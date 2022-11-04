@@ -19,3 +19,7 @@ class SmallestIntegerFinder {
 }
 
 
+function oddOrEven(array) {
+   let num = array.reduce((x, y) => x + y, 0);
+   return num%2==0?'even':'odd';
+}
